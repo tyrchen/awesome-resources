@@ -234,6 +234,12 @@ Amazing presentation - even if you don't buy in her idea you shall check how she
 
 ### Call for actions
 
+[How to live before you die - Steve Jobs](https://www.ted.com/talks/steve_jobs_how_to_live_before_you_die)
+
+Stay hungry, stay foolish.
+
+Connect the dots.
+
 [Try  something new for 30 days](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days)
 
 If you really want something badly, you can do it in 30 days. small changes = sustainable.
@@ -243,3 +249,13 @@ If you really want something badly, you can do it in 30 days. small changes = su
 What impressed me most is that he ask for a olympic donut, and the staff in the store made that for him.
 
 Sometimes, just by simply asking for what you want can open up possibilities where you expect to find dead ends. So don't be shy and ask for help bravely.
+
+[How to make stress your friend - Kelly McGonigal](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+
+stress may only be bad for you if you believe that to be the case. Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.
+
+### Misc
+
+[The Power of Introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
+
+introverts bring extraordinary talents and abilities to the world, and should be encouraged and celebrated.
