@@ -2,7 +2,11 @@
 
 This repo contains books, videos, online classes and other resources which helped me.
 
+Many of the books and videos I read/watched I can't remember exact their names so I didn't put it here.
+
 ## Books
+
+### Management books
 
 [Principles](https://www.principles.com/)
 
@@ -14,9 +18,26 @@ This is the best management book I've ever read about management. Management is 
 
 [Puritan Gift](https://www.amazon.com/Puritan-Gift-Reclaiming-American-Financial/dp/184511986X)
 
-insightful book about business management and leadership.
+insightful book about business management and leadership. In the end the author summarized 25 rules for management.
 
-Power shall but assigned to the first line employees / managers. Anyone who want
+### General
+
+[How to read a book - Mortimer Adler](https://www.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095)
+
+Best book about how to read book.
+
+* Do an inspectional read every time you want to pick up a new book.
+* Try to find the main theme and author’s intentions by analyzing a book in detail.
+* Ask more questions about books, critically thinking about their importance and logic.
+
+levels:
+
+* Elementary Reading
+* Inspectional Reading
+* Analytical reading
+* Syntopical Reading
+
+For more intro, please see [wikipedia](https://en.wikipedia.org/wiki/How_to_Read_a_Book) and [Summary by Carmen Rodríguez A](https://carmenrodrigueza.wordpress.com/2013/01/24/how-to-read-a-book-by-mortimer-j-adler-charles-van-doren/)
 
 ### Chinese books
 
@@ -64,6 +85,19 @@ Power shall but assigned to the first line employees / managers. Anyone who want
 
 政教文质，所以匡救也。当时则有之，过则舍之。
 
+[毛泽东选集](https://book.douban.com/subject/1139360/)
+
+To make it easy - Mao could be treated as the most successful product manager. Lots of people has prejudice on him. But if you read his articles, you would know why he and his company defeated the giant 100 times bigger - Jiang's government. He clearly drew the persona of classes in China, and pointed out who's the users, what's the vision to gain these users and markets. His philosophy and methodology is pretty practical. e.g. he got out of the build and chat with different users, his famous quote - "he who makes no investigation and study has no right to speak".
+
+鸡蛋因适当的温度而变化为鸡，但温度不能使石头变为鸡。
+
+冲动是艺术家的品质，沉着是政治家的品质，果断是军事家的品质，历史上杰出的领袖人物往往能集三者于一身。
+
+一个正确的认识，往往需要经过由物质到精神，由精神到物质，即由实践到认识，由认识到实践这样多次的反复，才能够完成。
+
+除了别的特点之外，中国六亿人口的显着特点是一穷二白。这些看起来是坏事，其实是好事。穷则思变。一张白纸，没有负担，好写最新最美的文字，好画最新最美的画图。
+
+...
 
 ## Videos
 
